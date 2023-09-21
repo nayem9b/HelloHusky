@@ -2,7 +2,6 @@
 import { Server } from 'http';
 import mongoose from 'mongoose';
 import app from './app';
-import subscribeToEvents from './app/events';
 import config from './config/index';
 import { errorlogger } from './shared/logger';
 import { RedisClient } from './shared/redis';
@@ -16,10 +15,7 @@ let server: Server;
 
 async function bootstrap() {
   try {
-    await RedisClient.connect().then(() => {
-      subscribeToEvents()
-    });
-
+    await RedisClient.connect();
 
     await mongoose.connect(config.database_url as string);
     // logger.info(`🛢   Database is connected successfully`);

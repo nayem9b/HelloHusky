@@ -1,0 +1,31 @@
+Thu Sep 21 2023 18:12:20 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:12:28 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:13:28 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:13:35 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:13:53 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:6 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:11 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:13 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:23 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:27 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:38 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:41 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:48 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:52 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:14:54 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:15:45 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:15:48 } [PH] error: Failed to connect database Cannot read properties of undefined (reading 'connect')
+Thu Sep 21 2023 18:15:52 } [PH] error: Failed to connect database redis_1.RedisClient.connect is not a function
+Thu Sep 21 2023 18:15:56 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:15:58 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:16:52 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:16:54 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:16:58 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:3 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:6 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:9 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:20 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:33 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:40 } [PH] error: Failed to connect database redis_1.RedisClient.subscribe is not a function
+Thu Sep 21 2023 18:17:43 } [PH] error: Failed to connect database Cannot read private member from an object whose class did not declare it
+Thu Sep 21 2023 18:17:47 } [PH] error: Failed to connect database Bind must be called on a function
