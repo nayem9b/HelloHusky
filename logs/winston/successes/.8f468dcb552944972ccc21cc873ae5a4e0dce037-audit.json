@@ -14,6 +14,11 @@
             "date": 1695298130378,
             "name": "E:\\Apollo\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-09-18-success.log",
             "hash": "82bb47db8d01c82c19bd468cced68a6d064a86709d18251e3d0d6d64bc1ad81f"
+        },
+        {
+            "date": 1695301821974,
+            "name": "E:\\Apollo\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-09-19-success.log",
+            "hash": "a58693f97f07fcbb2a19031f29415dd0d6ddf0f8637817a5baf8ccf60211bc34"
         }
     ],
     "hashType": "sha256"
