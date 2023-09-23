@@ -37,11 +37,11 @@ export type IStudent = {
   bloodGroup?: 'A+' | 'A-' | 'B+' | 'B-' | 'AB+' | 'AB-' | 'O+' | 'O-';
   presentAddress: string;
   permanentAddress: string;
-  guardian: Guardian; // embedded object
-  localGuardian: LocalGuardian; // embedded object
-  academicFaculty: Types.ObjectId | IAcademicFaculty; // reference _id
-  academicDepartment: Types.ObjectId | IAcademicDepartment; // reference _id
-  academicSemester: Types.ObjectId | IAcademicSemester; // reference _id
+  guardian?: Guardian; // embedded object
+  localGuardian?: LocalGuardian; // embedded object
+  academicFaculty?: Types.ObjectId | IAcademicFaculty; // reference _id
+  academicDepartment?: Types.ObjectId | IAcademicDepartment; // reference _id
+  academicSemester?: Types.ObjectId | IAcademicSemester; // reference _id
   profileImage?: string;
 };
 

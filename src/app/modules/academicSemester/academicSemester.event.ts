@@ -18,3 +18,21 @@ const initAcademicSemesterEvents = () => {
 };
 
 export default initAcademicSemesterEvents;
+
+
+// {
+//   "password": "123456",
+//   "student": {
+//     "name": {
+//       "firstName": "Rezwan",
+//       "lastName": "Ahmed",
+//       "middleName": "Nayem"
+//     },
+//     "dateOfBirth":"25-03-2000",
+//     "gender": "male",
+//     "bloodGroup": "B+",
+//     "email": "razwanniam1@gmail.com",
+//     "contactNo": "01222222",
+//     "presentAddress": "Dhaka"
+//   }
+// }

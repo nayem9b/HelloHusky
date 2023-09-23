@@ -57,76 +57,59 @@ export const StudentSchema = new Schema<IStudent, StudentModel>(
     },
     permanentAddress: {
       type: String,
-      required: true,
     },
     guardian: {
-      required: true,
       type: {
         fatherName: {
           type: String,
-          required: true,
         },
         fatherOccupation: {
           type: String,
-          required: true,
         },
         fatherContactNo: {
           type: String,
-          required: true,
         },
         motherName: {
           type: String,
-          required: true,
         },
         motherOccupation: {
           type: String,
-          required: true,
         },
         motherContactNo: {
           type: String,
-          required: true,
         },
         address: {
           type: String,
-          required: true,
         },
       },
     },
     localGuardian: {
-      required: true,
       type: {
         name: {
           type: String,
-          required: true,
         },
         occupation: {
           type: String,
-          required: true,
         },
         contactNo: {
           type: String,
-          required: true,
         },
         address: {
           type: String,
-          required: true,
         },
       },
     },
     academicFaculty: {
       type: Schema.Types.ObjectId,
       ref: 'AcademicFaculty',
-      required: true,
     },
     academicDepartment: {
       type: Schema.Types.ObjectId,
       ref: 'AcademicDepartment',
-      required: true,
     },
     academicSemester: {
       type: Schema.Types.ObjectId,
       ref: 'AcademicSemester',
-      required: true,
     },
     profileImage: {
       type: String,
